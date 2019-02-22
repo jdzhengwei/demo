@@ -1,0 +1,3 @@
+server:
+  context-path: /testM
+  port: 8085
